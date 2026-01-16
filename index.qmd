@@ -1,26 +1,15 @@
 ---
 title: "My E-Portfolio"
-image: images/MGEM_logo.png
+image: images/cham.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
-    - icon: github
-      text: GitHub
-      href: https://github.com/ramonmelser
-    - icon: envelope-at
-      text: Email
-      href: mailto:melser@student.ubc.ca
----
+      href:https://www.linkedin.com/in/nathan-monash-a6a115194/
+    
 
 Hey there people,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+I'm here to tell you what I like to do in a professional way! What do you guys think?
