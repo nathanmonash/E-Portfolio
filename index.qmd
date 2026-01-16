@@ -7,9 +7,8 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href:https://www.linkedin.com/in/nathan-monash-a6a115194/
-    
-
+      href: "https://www.linkedin.com/in/nathan-monash-a6a115194/"
+---
 Hey there people,
 
-I'm here to tell you what I like to do in a professional way! What do you guys think?
+I'm here to tell you what I like to do in a professional way! What do you guys think? I am going back to school at UBC right now for a Master's of Geomatics. I have experience in Air Quality Consulting, but I'm open to try other types of employment in the field. I love my dog Bennie Jett!
